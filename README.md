@@ -53,3 +53,8 @@ Add something like this to your App.rb
 3. Open up app/controllers.rb and port over the code to your app. You'll just need to change the app name to your app
 4. Add your specs to spec/javascripts
 5. Run `bundle exec guard-jasmine -u http://localhost:#{port}/jasmine` to see the results of your specs
+
+## Support
+
+If you found this repo useful please consider supporting me on [Gittip](https://www.gittip.com/k2052) or sending me some
+bitcoin `1csGsaDCFLRPPqugYjX93PEzaStuqXVMu`
